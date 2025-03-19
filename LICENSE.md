@@ -3,22 +3,26 @@ This Non-Commercial License Agreement ("Agreement") is a legal agreement between
 
 1. Grant of License
 Subject to the terms and conditions of this Agreement, the Licensor hereby grants the Licensee a non-exclusive, non-transferable, non-sublicensable license to use, modify, and distribute the Software solely for non-commercial purposes.
+
 2. Restrictions
 The Licensee agrees to the following restrictions:
 
 The Software may not be used for any commercial purpose, including but not limited to selling, licensing, or distributing the Software for a fee.
 The Licensee may not sublicense, rent, lease, or lend the Software.
 The Licensee may not reverse engineer, decompile, or disassemble the Software, except to the extent that such activity is expressly permitted by applicable law.
+
 3. Modifications and Derivative Works
 The Licensee may modify the Software and create derivative works based on the Software, provided that:
 Any modifications or derivative works are also subject to the terms of this Agreement.
 Any modifications or derivative works are clearly marked as such and include a notice that they are based on the original Software provided by the Licensor.
+
 4. Distribution
 The Licensee may distribute the Software, including any modifications or derivative works, provided that:
 
 The distribution is solely for non-commercial purposes.
 The Licensee includes a copy of this Agreement with the distributed Software.
 The Licensee does not remove or alter any proprietary notices, labels, or marks on the Software.
+
 5. Intellectual Property
 The Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights. The Licensee acknowledges that no ownership rights are granted under this Agreement.
 
@@ -31,6 +35,7 @@ In no event shall the Licensor be liable for any damages, including but not limi
 
 8. Termination
 This Agreement is effective until terminated. The Licensee may terminate this Agreement at any time by ceasing all use of the Software and destroying all copies of the Software in their possession. The Licensor may terminate this Agreement immediately if the Licensee breaches any term of this Agreement. Upon termination, the Licensee must cease all use of the Software and destroy all copies of the Software in their possession.
+
 9. Governing Law
 This Agreement shall be governed by and construed in accordance with the laws of China, without regard to its conflict of laws principles.
 
